@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ManavDevikar
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on FRONT END
 - 📫 How to reach me via g-mail= Manavdevikar@gmail.com
 
 <!---
